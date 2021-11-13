@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Frontend Developer based in Moscow
 
 Technologies I work with:
